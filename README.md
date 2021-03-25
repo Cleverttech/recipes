@@ -22,4 +22,4 @@ flexbox
 
 ###### source:
 
-[Ironhack]("https://github.com/ironhack-labs/lab-css-recipes-clone")
+[Ironhack-lab]("https://github.com/ironhack-labs/lab-css-recipes-clone")
