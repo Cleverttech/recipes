@@ -1,6 +1,6 @@
 #apple-bg {
   height: 500px;
-  background-image: url("../apple-pie/images/apple-pie.jpg");
+  background-image: url("/apple-pie/images/apple-pie.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
