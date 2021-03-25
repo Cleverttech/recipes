@@ -1,0 +1,38 @@
+#apple-bg {
+  height: 500px;
+  background-image: url("/apple-pie/images/apple-pie.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+}
+#text-burger p {
+  font-size: 1.2em;
+  margin-top: 30px;
+}
+
+#apple-bg h1 {
+  display: flex;
+  margin: 0px auto;
+  align-items: center;
+  color: white;
+  font-size: 3.5rem;
+  font-weight: lighter;
+}
+
+#text-burger {
+  width: 85%;
+  margin: 0px auto;
+}
+ul {
+  list-style-type: none;
+}
+
+.icon-bg {
+  display: flex;
+}
+
+.icons {
+  width: 35%;
+  margin: 0px auto;
+}
