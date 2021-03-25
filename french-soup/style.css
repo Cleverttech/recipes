@@ -1,0 +1,50 @@
+/*Some necessary adjustments*/
+h1,
+body,
+html,
+main {
+  margin: 0;
+}
+/*Import the font and set the default size*/
+html {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+}
+
+#soup-bg {
+  height: 500px;
+  background-image: url("../french-soup/images/soup.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+}
+#text-burger p {
+  margin-top: 30px;
+  font-size: 1.2em;
+}
+
+#soup-bg h1 {
+  display: flex;
+  margin: 0px auto;
+  align-items: center;
+  color: white;
+  font-weight: lighter;
+}
+
+#text-burger {
+  width: 85%;
+  margin: 0px auto;
+}
+ul {
+  list-style-type: none;
+}
+
+.icon-bg {
+  display: flex;
+}
+
+.icons {
+  width: 35%;
+  margin: 0px auto;
+}
